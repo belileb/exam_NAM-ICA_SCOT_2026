@@ -1,0 +1,15 @@
+function,comparison,median_nam,median_ica,p_value,winner,significant
+F1,namica_03 vs ica_03,3.174796E-20,1.794968E-19,0.6702,NAM-ICA,no
+F1,namica_05 vs ica_05,7.596236E-19,3.26735E-19,0.8553,ICA,no
+F3,namica_03 vs ica_03,56415.89,56415.89,0.6753,tie,no
+F3,namica_05 vs ica_05,46415.89,56415.89,0.5841,NAM-ICA,no
+F5,namica_03 vs ica_03,0.1291192,0.06683896,0.7766,ICA,no
+F5,namica_05 vs ica_05,0.1518044,0.1383209,0.8236,ICA,no
+F2,namica_03 vs ica_03,0,0,0.7515,tie,no
+F2,namica_05 vs ica_05,0,0,0.4133,tie,no
+F4,namica_03 vs ica_03,0.2562518,0.1432484,0.44,ICA,no
+F4,namica_05 vs ica_05,0.01614002,1.252096,0.01283,NAM-ICA,yes
+F6,namica_03 vs ica_03,0.664881,0.6551415,1,ICA,no
+F6,namica_05 vs ica_05,0.6094305,0.5518805,0.9677,ICA,no
+F7,namica_03 vs ica_03,0.4243871,1.23133,0.05226,NAM-ICA,near miss
+F7,namica_05 vs ica_05,0.9818294,0.9028258,1,ICA,no
